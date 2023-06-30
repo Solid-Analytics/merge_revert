@@ -1,0 +1,145 @@
+<mxfile host="65bd71144e">
+    <diagram id="Ax8ytzCEUU-1Sc1jVnvf" name="Page-1">
+        <mxGraphModel dx="1360" dy="1507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#1ba1e2;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#006EAF;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-20" y="80" width="820" height="820" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;fontSize=27;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=6;" parent="1" source="2" target="12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Main" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;a style=&quot;box-sizing: inherit; color: rgb(0, 102, 153); text-decoration: underline rgb(0, 111, 196); transition: all 0.25s ease 0s; outline: 0px; font-family: &amp;quot;Libre Baskerville&amp;quot;, serif; font-size: 17px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; text-size-adjust: auto; -webkit-text-stroke-width: 0px;&quot; aria-haspopup=&quot;dialog&quot; aria-controls=&quot;fancybox-wrap&quot; class=&quot;fancybox image&quot; href=&quot;https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png&quot;&gt;&lt;img style=&quot;box-sizing: inherit; height: auto; max-width: 100%; border: 0px; clear: both; display: block; margin-left: auto; margin-right: auto;&quot; sizes=&quot;(max-width: 500px) 100vw, 500px&quot; srcset=&quot;https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo-500x281.png 500w, https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo-140x79.png 140w, https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo-768x432.png 768w, https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo-1536x864.png 1536w, https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo-2048x1152.png 2048w&quot; height=&quot;281&quot; width=&quot;500&quot; alt=&quot;GitHub logo&quot; src=&quot;https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo-500x281.png&quot; class=&quot;aligncenter size-medium wp-image-109407&quot; decoding=&quot;async&quot;&gt;&lt;/a&gt;&lt;em style=&quot;box-sizing: inherit; font-style: italic; caret-color: rgb(17, 17, 17); color: rgb(17, 17, 17); font-family: &amp;quot;Libre Baskerville&amp;quot;, serif; font-size: 17px; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;/em&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" parent="1" vertex="1">
+                    <mxGeometry x="330" width="50" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="GitHub" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="345" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Development" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="" style="edgeStyle=none;html=1;fontSize=27;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=6;" parent="1" source="63" target="64" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="Main" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="" style="edgeStyle=none;html=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=4;" parent="1" source="64" target="65" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="Development" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="Feature-1" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="" style="edgeStyle=none;html=1;fontSize=27;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=6;" parent="1" source="68" target="70" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="Main" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="75" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="" style="edgeStyle=none;html=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=4;" parent="1" source="70" target="71" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="Development" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="285" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" style="edgeStyle=none;html=1;strokeWidth=4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="71" target="70" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="450" y="470"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="71" value="Feature-1" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="485" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="35" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="170" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="3" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="310" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="Terminal&lt;br&gt;1. git push" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="440" width="90" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" style="edgeStyle=none;html=1;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="70" target="71" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="460" y="320"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="84" value="2. Web Git Hub &lt;br&gt;compare &amp;amp; pull req" style="shape=card;whiteSpace=wrap;html=1;size=40;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="440" width="110" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="4" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="530" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="Terminal&lt;br&gt;3. git pull" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="305" y="300" width="95" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="Terminal&lt;br&gt;4. git merge" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="300" width="95" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="" style="edgeStyle=none;html=1;fontSize=27;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=6;" parent="1" source="91" target="93" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="Main" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="75" y="580" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="" style="edgeStyle=none;html=1;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=4;" parent="1" source="93" target="95" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="" style="edgeStyle=none;html=1;strokeWidth=4;fillColor=#0050ef;strokeColor=#001DBC;" parent="1" source="93" target="98" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="390" y="710"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="93" value="Development" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="285" y="580" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" value="Feature-1" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="485" y="580" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="" style="edgeStyle=none;html=1;strokeWidth=4;fillColor=#e51400;strokeColor=#FF0000;entryX=0.567;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="98" target="91" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="670" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="540" y="780"/>
+                            <mxPoint x="370" y="780"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="98" value="Feature-2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="485" y="680" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="Terminal&lt;br&gt;1. git push" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="545" y="750" width="90" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" value="2. Web Git Hub &lt;br&gt;compare &amp;amp; pull req&lt;br&gt;Main Branch" style="shape=card;whiteSpace=wrap;html=1;size=40;direction=south;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="660" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="105" value="! This is Bad" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#990000;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="195" y="730" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="106" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;Let See How To Resolve&amp;nbsp;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="790" width="235" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="107" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;Problem&lt;/h1&gt;&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; font-size: 18px;&quot;&gt;Accidently pushed and merged a feature branch to the main rather than to the development branch.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="-200" width="340" height="150" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
